@@ -1,0 +1,26 @@
+{
+    "name": "react-hooks-npm-lab",
+    "version": "1.0.0",
+    "description": "## Learning Goals",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'Hello World!'",
+        "start": "serve"
+
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salutationss/react-hooks-npm-lab.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/salutationss/react-hooks-npm-lab/issues"
+    },
+    "homepage": "https://github.com/salutationss/react-hooks-npm-lab#readme",
+    "dependencies": {
+        "date-fns": "^2.28.0",
+        "serve": "^13.0.2"
+    }
+}
